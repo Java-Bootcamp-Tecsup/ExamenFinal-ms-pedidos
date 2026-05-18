@@ -31,4 +31,4 @@ Microservicio para gestionar el catálogo de pedidos
 3. Dar hit a `http://localhost:8080/api/pedidos`
 
 ## URL desplegada
-[https://ms-productos.onrender.com/api/productos](https://examenfinal-ms-pedidos.onrender.com)
+https://examenfinal-ms-pedidos.onrender.com
